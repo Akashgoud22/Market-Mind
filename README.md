@@ -1,4 +1,4 @@
-# MarketAI Suite - AI-Powered Sales & Marketing Platform 📖
+# Market Mind - AI-Powered Sales & Marketing Platform 📖
 
 ## Project Description
 [cite_start]**MarketAI Suite** is an intelligent sales and marketing platform that leverages **Groq's LLAMA 3.3 70B** AI model to provide comprehensive strategic support[cite: 7]. [cite_start]The platform addresses the challenge of data-driven marketing and sales optimization by delivering AI-powered campaign generation, intelligent pitch creation, and predictive lead scoring[cite: 8].
